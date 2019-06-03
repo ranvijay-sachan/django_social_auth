@@ -1,0 +1,14 @@
+.project
+.idea/
+.envrc
+.python-version
+__pycache__/*
+*.py[cod]
+*.db
+.DS_Store
+static_collected/
+media/
+.~*
+*.sqlite3
+*.log
+*.pyc
