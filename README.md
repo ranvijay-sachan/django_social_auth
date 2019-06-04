@@ -30,5 +30,4 @@ This is a demo repository to teach how to set up social authentication using soc
    ]
    ```
 
-## Built With
 ![Screenshot](screenshot.png)
