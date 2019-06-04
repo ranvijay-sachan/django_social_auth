@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a demo repository to teach how to set up social authentication social-auth-app-django library. 
+This is a demo repository to teach how to set up social authentication using social-auth-app-django library. 
 
 ## Requirements
 * Python3
